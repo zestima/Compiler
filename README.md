@@ -1,2 +1,2 @@
 # Compiler
-[School Project] Compiler of programming language developed in OCaml and Menhir
+[School Project] Compiler of programming language (FIXE which was created by my teacher for this purpose) developed in OCaml and Menhir
